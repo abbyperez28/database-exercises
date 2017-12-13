@@ -31,4 +31,10 @@ WHERE hire_date LIKE '199%' AND birth_date LIKE '%-12-25';
 
 SELECT *
 FROM employees
+<<<<<<< HEAD
 WHERE last_name LIKE '%q%' and last_name NOT LIKE 'qu';
+=======
+WHERE last_name LIKE '%q%' and last_name NOT LIKE 'qu';
+
+
+>>>>>>> 5945f96be25a0cb83459b674f01ddd2b896e2b50

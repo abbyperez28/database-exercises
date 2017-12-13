@@ -1,8 +1,7 @@
 from titles;
 
-SELECT titles
-FROM employees
-GROUP BY titles;
+SELECT distince title
+FROM titles;
 
 SELECT first_name, last_name
 from employees

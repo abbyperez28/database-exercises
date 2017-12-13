@@ -1,4 +1,6 @@
 use employees;
 
 SELECT DISTINCT titles
-FROM employees;
+FROM employees
+GROUP BY titles;
+

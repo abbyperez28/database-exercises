@@ -54,3 +54,4 @@ WHERE emp_no IN (
     FROM dept_manager
 )
 LIMIT 10;
+
